@@ -1,0 +1,7 @@
+.game{
+  border: solid blue 10px;
+  width: 75%;
+  margin: 4px;
+  display: flex;
+  align-items: center;
+}
